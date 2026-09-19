@@ -21,12 +21,11 @@
 
 ## 📖 About This Course
 
-This repository contains all homework, quizzes, and the team semester project for
+This repository contains all homework, and the team semester project for
 **DATA 202** — the mathematical backbone behind data intelligence: statistics,
 probability, calculus, and linear algebra, all tied back to real analytics workflows.
 
-> **Instructor:** Dr. Shih-Yu Chang · **TA:** Anurag Josyula
-> **Schedule:** Tuesdays, 3:00–5:45 PM · Room BBC 324
+
 
 ## 🧭 Topics Covered
 
@@ -45,29 +44,7 @@ probability, calculus, and linear algebra, all tied back to real analytics workf
 | 11 | Systems of Linear Equations | Solving & applications |
 | 12 | Math → Data Intelligence | Tying it all together |
 
-## 📂 Repository Structure
 
-```
-DATA202/
-├── homework/
-│   ├── hw01-measurements-sampling/
-│   ├── hw02-hypothesis-testing/
-│   ├── hw03-probability-distributions/
-│   ├── hw04-linear-algebra/
-│   └── hw05-final/
-├── team-project/
-│   ├── proposal/
-│   ├── mid-presentation/
-│   └── final-materials/
-├── quizzes/
-└── README.md
-```
-
-## 🏗️ Featured: Team Semester Project
-
-A **30%-weighted** team project applying the semester's math toolkit — from
-statistical summaries through optimization and linear algebra — to a real data
-intelligence problem, with a mid-semester presentation and full final deliverable.
 
 ## 🎯 Grading Breakdown
 
